@@ -7,7 +7,7 @@ const RotatingCube = () => {
   useEffect(() => {
     const interval = setInterval(() => {
       setRotation(rotation => rotation + 90);
-    }, 20000);
+    }, 40000);
 
     return () => {
       clearInterval(interval);
