@@ -336,7 +336,7 @@ const experience = {
   title: "Work Experience",
   subtitle: "",
   description:
-   "I have 4yrs of Work Experience with Oracle(OFSS) as Full Stack Developer for developing Financial Software and Cloud products. Additionally, I have a solid background in the field of for developing financial Software and Cloud products/NLP, demonstrated through relevant coursework and project work.",
+   "I have 4yrs of Work Experience with Oracle(OFSS) as Full Stack Developer for developing Financial Software and Cloud products. Additionally, I have a solid background in the field of developing financial Software and Cloud products, demonstrated through relevant coursework and project work.",
    header_image_path: "experience.svg",
   sections: [
     {
