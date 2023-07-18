@@ -394,7 +394,103 @@ const contactPageData = {
 const projects = {
   data: [
     {
-      id: "0",
+      id: "1",
+      name: "Portfolio Xtreme",
+      url: "",
+      description:
+        "Developed portfolio manager application where we can create different stock portfolios with live stock prices fetched using third Party APIs as well as we can apply different strategies like Dollar-Cost Averaging, etc.",
+      languages: [
+        {
+          name: "Java",
+          iconifyClass: "devicon:java",
+        },
+        {
+          name: "JUnit",
+          iconifyClass: "devicon:junit-wordmark",
+        },
+        {
+          name: "File IO",
+          iconifyClass: "vscode-icons:file-type-light-io",
+        },
+        {
+          name: "Visual Studio Code",
+          iconifyClass: "logos:visual-studio-code",
+        },
+      ],
+    },
+    {
+      id: "2",
+      name: "Anomaly Detection in Time Series",
+      url: "https://github.com/pravinpawar3/Anomaly-Detection-in-Time-Series",
+      description:
+        "Constructed Flask application that provides endpoints for building an LSTM-based auto-encoder model, using real stock price data from Yahoo Finance APIs, and predicting anomalies in time-series data of stock prices.",
+      languages: [
+        {
+          name: "Python",
+          iconifyClass: "logos-python",
+        },
+        {
+          name: "Tensorflow",
+          iconifyClass: "logos:tensorflow",
+        },
+        {
+          name: "Scikit-Learn",
+          iconifyClass: "simple-icons:scikit-learn",
+        },
+        {
+          name: "NumPy",
+          iconifyClass: "logos:numpy",
+        },
+        {
+          name: "Pandas",
+          iconifyClass: "devicon:pandas",
+        },
+        {
+          name: "Flask",
+          iconifyClass: "logos:flask",
+        },
+        {
+          name: "Jupyter Notebook",
+          iconifyClass: "logos-jupyter",
+        },
+      ],
+    },
+
+    {
+      id: "4",
+      name: "Twitter Sentimental Analysis",
+      url: "https://github.com/pravinpawar3/Twitter-Sentimental-Analysis",
+      description:
+        "Created Machine Learning model to predict sentiment of twitter tweets, i.e., positive, negative, or neutral, accomplished by applying NLP(TF-IDF) and ML(SVC) Algorithms.",
+      languages: [
+        {
+          name: "Python",
+          iconifyClass: "logos-python",
+        },
+        {
+          name: "Tensorflow",
+          iconifyClass: "logos:tensorflow",
+        },
+        {
+          name: "Scikit-Learn",
+          iconifyClass: "simple-icons:scikit-learn",
+        },
+        {
+          name: "NumPy",
+          iconifyClass: "logos:numpy",
+        },
+        {
+          name: "Pandas",
+          iconifyClass: "devicon:pandas",
+        },
+        {
+          name: "Jupyter Notebook",
+          iconifyClass: "logos-jupyter",
+        },
+      ],
+    },
+    {
+      id: "4",
       name: "CARCOM (Automobile IoT)",
       url: "https://github.com/pravinpawar3/CARCOM",
       description:
@@ -424,7 +520,7 @@ const projects = {
       ],
     },
     {
-      id: "1",
+      id: "3",
       name: "News Summarization and Visualization using Stable Diffusion",
       url:
         "https://github.com/pravinpawar3/News_Summarization_and_Visualization_using_Stable_Diffusion",
@@ -436,7 +532,7 @@ const projects = {
           iconifyClass: "logos-python",
         },
         {
-          skillName: "Tensorflow",
+          name: "Tensorflow",
           iconifyClass: "logos:tensorflow",
         },
         {
@@ -444,107 +540,15 @@ const projects = {
           iconifyClass: "fluent-emoji:hugging-face",
         },
         {
-          skillName: "Scikit-Learn",
+          name: "Scikit-Learn",
           iconifyClass: "simple-icons:scikit-learn",
         },
         {
-          skillName: "NumPy",
+          name: "NumPy",
           iconifyClass: "logos:numpy",
         },
         {
-          skillName: "Pandas",
-          iconifyClass: "devicon:pandas",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
-      ],
-    },
-    {
-      id: "2",
-      name: "Anomaly Detection in Time Series",
-      url: "https://github.com/pravinpawar3/Anomaly-Detection-in-Time-Series",
-      description:
-        "Constructed LSTM based auto-encoder model for identifying anomaly in time-series data of stock prices.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          skillName: "Tensorflow",
-          iconifyClass: "logos:tensorflow",
-        },
-        {
-          skillName: "Scikit-Learn",
-          iconifyClass: "simple-icons:scikit-learn",
-        },
-        {
-          skillName: "NumPy",
-          iconifyClass: "logos:numpy",
-        },
-        {
-          skillName: "Pandas",
-          iconifyClass: "devicon:pandas",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
-      ],
-    },
-    {
-      id: "3",
-      name: "Portfolio Manager",
-      url:
-        "https://github.com/pravinpawar3/Movies_Review_Classifier_Using_NLTK_And_Naive_Bayes",
-      description:
-        "Developed portfolio manager application where we can create different stock portfolios with live stock prices fetched using third Party APIs as well as we can apply different strategies like Dollar-Cost Averaging, etc.",
-      languages: [
-        {
-          name: "Java",
-          iconifyClass: "devicon:java",
-        },
-        {
-          name: "JUnit",
-          iconifyClass: "devicon:junit-wordmark",
-        },
-        {
-          name: "File IO",
-          iconifyClass: "vscode-icons:file-type-light-io",
-        },
-        {
-          name: "Visual Studio Code",
-          iconifyClass: "logos:visual-studio-code",
-        },
-      ],
-    },
-    {
-      id: "4",
-      name: "Twitter Sentimental Analysis",
-      url: "https://github.com/pravinpawar3/Twitter-Sentimental-Analysis",
-      description:
-        "Created Machine Learning model to predict sentiment of twitter tweets, i.e., positive, negative, or neutral, accomplished by applying NLP(TF-IDF) and ML(SVC) Algorithms.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          skillName: "Tensorflow",
-          iconifyClass: "logos:tensorflow",
-        },
-        {
-          skillName: "Scikit-Learn",
-          iconifyClass: "simple-icons:scikit-learn",
-        },
-        {
-          skillName: "NumPy",
-          iconifyClass: "logos:numpy",
-        },
-        {
-          skillName: "Pandas",
+          name: "Pandas",
           iconifyClass: "devicon:pandas",
         },
         {
