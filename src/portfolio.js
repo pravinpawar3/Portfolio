@@ -207,9 +207,9 @@ const skills = {
       title: "AI/ML/NLP Engineer",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working with LLMs and NLP algorithms projects: Text Summarization",
+        "⚡ Experience working with LLMs and NLP algorithms projects: T5, RoBERTa models",
         "⚡ Experience working with Deep Learning projects: CNN, Auto Encoder",
-        "⚡ Experience working with Machine Leaning projects: Sentimental Analysis (SVC)",
+        "⚡ Experience working with Machine Leaning projects: Multi-Model ensemble with Logistic Regression, SVC, Random Forest, and XGBoost",
       ],
       softwareSkills: [
         {
@@ -461,7 +461,7 @@ const projects = {
       name: "Twitter Sentimental Analysis",
       url: "https://github.com/pravinpawar3/Twitter-Sentimental-Analysis",
       description:
-        "Created Machine Learning model to predict sentiment of twitter tweets, i.e., positive, negative, or neutral, accomplished by applying NLP(TF-IDF) and ML(SVC) Algorithms.",
+        "Crafted an NLP model to predict tweets sentiment by fine-tuning RoBERTa transformer using Python and FastAPI.",
       languages: [
         {
           name: "Python",
