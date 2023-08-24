@@ -70,7 +70,7 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "devicon:nodejs-wordmark",
+          fontAwesomeClassname: "devicon:nodejs",
           style: {
             color: "#339933",
           },
