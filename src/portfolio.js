@@ -207,9 +207,9 @@ const skills = {
       title: "AI/ML/NLP Engineer",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working with LLMs and NLP algorithms projects: T5, RoBERTa models",
-        "⚡ Experience working with Deep Learning projects: CNN, Auto Encoder",
         "⚡ Experience working with Machine Leaning projects: Multi-Model ensemble with Logistic Regression, SVC, Random Forest, and XGBoost",
+        "⚡ Experience working with LLMs and NLP algorithms projects: T5, RoBERTa models",
+        "⚡ Experience working with Deep Learning projects: CNN, LSTM AutoEncoder",
       ],
       softwareSkills: [
         {
