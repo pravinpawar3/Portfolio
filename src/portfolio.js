@@ -70,7 +70,7 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "devicon:nodejs-wordmark",
           style: {
             color: "#339933",
           },
@@ -112,7 +112,7 @@ const skills = {
         },
         {
           skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
+          fontAwesomeClassname: "devicon:java",
           style: {
             color: "#f89820",
           },
@@ -221,7 +221,7 @@ const skills = {
         },
         {
           skillName: "Scikit-Learn",
-          fontAwesomeClassname: "simple-icons:scikit-learn",
+          fontAwesomeClassname: "devicon:scikitlearn",
           style: {
             color: "#FF9900",
           },
@@ -435,7 +435,7 @@ const projects = {
         },
         {
           name: "Scikit-Learn",
-          iconifyClass: "simple-icons:scikit-learn",
+          iconifyClass: "devicon:scikitlearn",
         },
         {
           name: "NumPy",
@@ -473,7 +473,7 @@ const projects = {
         },
         {
           name: "Scikit-Learn",
-          iconifyClass: "simple-icons:scikit-learn",
+          iconifyClass: "devicon:scikitlearn",
         },
         {
           name: "NumPy",
@@ -541,7 +541,7 @@ const projects = {
         },
         {
           name: "Scikit-Learn",
-          iconifyClass: "simple-icons:scikit-learn",
+          iconifyClass: "devicon:scikitlearn",
         },
         {
           name: "NumPy",
