@@ -338,12 +338,23 @@ const experience = {
   title: "Work Experience",
   subtitle: "",
   description:
-    "I have 4yrs of Work Experience with Oracle(OFSS) as Full Stack Developer for developing Financial Software and Cloud products. Additionally, I have a solid background in the field of developing financial Software and Cloud products, demonstrated through relevant coursework and project work.",
+    "I have 4 years of Work Experience with Oracle(OFSS) as Full Stack Developer for developing Financial Software and Cloud products, and over 1 years of experience as a Machine Learning Research Engineer with MIT + Northeastern University.",
+  //' Additionally, I have a solid background in the field of developing financial Software and Cloud products, demonstrated through relevant coursework and project work.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work Experience",
       experiences: [
+        {
+          title: "Machine Learning Research Engineer",
+          company: "MIT + Northeastern University",
+          company_url: "https://tso.sites.northeastern.edu/",
+          duration: "Sept 2023 - Dec 2024",
+          location: "Boston, USA",
+          description: `
+          • Developed predictive ML models based on real-world time series data in collaboration with MIT Transit Lab, incorporating custom cost-sensitive loss and a rapid deployment dashboard, boosting model performance by 23% and operational efficiency by 40%. `,
+          color: "#0071C5",
+        },
         {
           title:
             "Associate Application Developer (Oracle Financial Services Cloud, OFSC Team)",
