@@ -12,11 +12,11 @@ const greeting = {
   title: "Hi 👋",
   title2: "Pravin",
   logo_name: "P",
-  full_name: "Pravin Pawar",
+  full_name: "Pravin Anand Pawar",
   subTitle:
-    " pursuing MS in CS @ NEU (Khoury College of Computer Science) \n | Ex-Oracle (OFSS), Full Stack developer for development of financial Software and Cloud products.",
+    " pursuing MS in CS @ NEU (Khoury College of Computer Science) \n | ML Research Engineer MIT + NEU | Ex-Oracle (OFSS), Full Stack developer for development of financial Software and Cloud products.",
   resumeLink:
-    "https://drive.google.com/file/d/1tEA9QDb6mWOdUo69Z-_vUqkL3FX78BK1/view?usp=sharing",
+    "https://drive.google.com/file/d/1EgIuc71YNOVcHrXYaInnJJYWwhSkBlwE/view?usp=sharing",
   mail: "mailto:pawar.prav@northeastern.edu",
 };
 
